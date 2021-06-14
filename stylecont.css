@@ -291,7 +291,7 @@ footer .cont .footend p{
 
 
 /*   MEDIA QUARY   */
-@media screen and (max-width:1200px) {
+@media screen and (max-width:700px) {
     header{width:100%}
     header .subhead ,main >div, footer .cont,main.products .submain .buy,main.contact #signup,main.products .submain aside{
         width:95%;
@@ -324,7 +324,7 @@ footer .cont .footend p{
   }
   
     footer .cont{
-        width:95%;
+        width:100%;
         flex-direction:column;
     }
     footer .cont div, footer .cont div.mainmenu{
