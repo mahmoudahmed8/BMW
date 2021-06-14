@@ -322,7 +322,9 @@ footer .cont .footend p{
       margin: 6px 0;
     
   }
-  
+  textarea{
+         overflow: hidden;
+     }
     footer .cont{
         width:100%;
         flex-direction:column;
